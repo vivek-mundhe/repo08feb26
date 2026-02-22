@@ -1,0 +1,9 @@
+{
+	"name": "projectcicd-dev-adfvivek",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "af7f6c7c-8386-4f3d-9016-ddeefc49f4b1",
+		"tenantId": "74a3d85b-11d1-4031-bacd-04aceca6ca8e"
+	}
+}
